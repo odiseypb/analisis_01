@@ -1,0 +1,14 @@
+Acerca del conjunto de datos
+Contexto
+Internet (o Internet) es un sistema global de redes informáticas interconectadas que utiliza el conjunto de protocolos de Internet (TCP/IP) para comunicarse entre redes y dispositivos. Es una red de redes que consta de redes privadas, públicas, académicas, comerciales y gubernamentales de alcance local a global, unidas por una amplia gama de tecnologías de redes electrónicas, inalámbricas y ópticas. Internet transporta una amplia gama de recursos y servicios de información, como los documentos de hipertexto interconectados y las aplicaciones de la World Wide Web (WWW), el correo electrónico, la telefonía y el intercambio de archivos.
+
+Contenido
+El siguiente conjunto de datos tiene información sobre los usuarios de Internet entre 1980 y 2020. Los detalles sobre las columnas son los siguientes:
+
+Entidad: contiene el nombre de los países y las regiones.
+Código: información sobre el código de país y cuando el código tiene el valor 'Región', denota división al agrupar varios países.
+Año - Año de 1980-2020
+Suscripción celular: suscripciones de telefonía móvil por cada 100 personas. Este número puede superar los 100 cuando la persona promedio tiene más de una suscripción a un servicio móvil.
+Usuarios de Internet (%): la proporción de la población que accede a Internet en todos los países del mundo.
+No. de usuarios de Internet: número de personas que utilizan Internet en cada país.
+Suscripción de banda ancha: el número de suscripciones de banda ancha fija por cada 100 personas. Se refiere a suscripciones fijas de acceso de alta velocidad a la Internet pública (una conexión TCP/IP), a velocidades descendentes iguales o superiores a 256 kbit/s.
